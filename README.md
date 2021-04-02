@@ -7,3 +7,5 @@
 <br>
 <p>What wasn't added but was intended to be was a user input box to enter linear or quadratic equations..</p>
 <img src='https://i.imgur.com/XFl1yjd.png'>
+<br>
+<p>Uses SFML and TGUI.</p>
